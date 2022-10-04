@@ -1,0 +1,29 @@
+payload:
+  # hypergryph
+  - DOMAIN-SUFFIX,hypergryph.com
+  # steam
+  # - DOMAIN-SUFFIX,steampowered.com,Proxy
+  # - DOMAIN-SUFFIX,steamcommunity.com,Proxy
+  # - DOMAIN-KEYWORD,steamcdn-a.akamaihd.net,Proxy
+  - DOMAIN-KEYWORD,steamcdn
+  - DOMAIN-KEYWORD,steamcontent
+  - DOMAIN-SUFFIX,steam-chat.com
+  # - DOMAIN-KEYWORD,steamstore
+  - DOMAIN-KEYWORD,steamuserimages
+  - DOMAIN-KEYWORD,steambroadcast
+
+  # epic
+  - DOMAIN-KEYWORD,epicgames
+  - DOMAIN-SUFFIX,helpshift.com
+  # battle_net
+  # Blizzard
+  - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,battle.net
+  - DOMAIN,blzddist1-a.akamaihd.net
+
+  # origin
+
+  # ubisoft
+
+  # nitendo
+

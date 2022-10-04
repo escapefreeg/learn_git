@@ -1,0 +1,40 @@
+payload:
+  # bilibili
+  - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,b23.tv
+  - DOMAIN-SUFFIX,acg.tv
+  - DOMAIN-SUFFIX,acgvideo.com
+  - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN-SUFFIX,hdslb.com
+  - DOMAIN-SUFFIX,im9.com
+  - DOMAIN-SUFFIX,biligame.com
+  - DOMAIN-SUFFIX,biligame.net
+  # # youtube
+  # - DOMAIN-KEYWORD,youtube,GlobalTV
+  # - DOMAIN-SUFFIX,googlevideo.com,GlobalTV
+  # - DOMAIN-SUFFIX,youtu.be,GlobalTV
+  # - DOMAIN-SUFFIX,gvt2.com,GlobalTV
+  # jianying
+  - DOMAIN-SUFFIX,tv.hbys.top
+  # kela_halihali
+  - DOMAIN-SUFFIX,kelatv.com
+  # adult_website
+  #   General
+  # - DOMAIN-SUFFIX,91porn.com,Proxy
+  # - DOMAIN-SUFFIX,pornhub.com,Proxy
+  # - DOMAIN-SUFFIX,t66y.com,Proxy
+  # - DOMAIN-SUFFIX,xvideos.com,Proxy
+  # - DOMAIN-SUFFIX,kdw019.com,Proxy
+    # Japanese
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-KEYWORD,dmm
+
+  # # netflix
+  # - DOMAIN-KEYWORD,netflix
+  # - DOMAIN-KEYWORD,nflx
+  # - DOMAIN-KEYWORD,dualstack.apiproxy-
+  # - DOMAIN-KEYWORD,dualstack.ichnaea-web-
+  # - DOMAIN-SUFFIX,us-west-2.amazonaws.com

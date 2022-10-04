@@ -1,0 +1,35 @@
+payload:
+  # lan
+  - IP-CIDR,192.168.0.0/16
+  - IP-CIDR,10.0.0.0/8
+  - IP-CIDR,172.16.0.0/12
+  - IP-CIDR,127.0.0.0/8
+  - IP-CIDR,100.64.0.0/10
+  - IP-CIDR,224.0.0.0/4
+  - IP-CIDR6,fe80::/10
+  # # IPv4 地址段 广告
+  # - IP-CIDR,117.177.248.17/32
+  # - IP-CIDR,117.177.248.41/32
+  # - IP-CIDR,223.87.176.139/32
+  # - IP-CIDR,223.87.176.176/32
+  # - IP-CIDR,223.87.177.180/32
+  # - IP-CIDR,223.87.177.182/32
+  # - IP-CIDR,223.87.177.184/32
+  # - IP-CIDR,223.87.177.43/32
+  # - IP-CIDR,223.87.177.47/32
+  # - IP-CIDR,223.87.177.80/32
+  # - IP-CIDR,223.87.182.101/32
+  # - IP-CIDR,223.87.182.102/32
+  # - IP-CIDR,223.87.182.11/32
+  # - IP-CIDR,223.87.182.52/32
+  # # telegram
+  # - IP-CIDR,91.108.4.0/22,no-resolve
+  # - IP-CIDR,91.108.8.0/21,no-resolve
+  # - IP-CIDR,91.108.16.0/22,no-resolve
+  # - IP-CIDR,91.108.56.0/22,no-resolve
+  # - IP-CIDR,149.154.160.0/20,no-resolve
+  # - IP-CIDR6,2001:67c:4e8::/48,no-resolve
+  # - IP-CIDR6,2001:b28:f23d::/48,no-resolve
+  # - IP-CIDR6,2001:b28:f23f::/48,no-resolve
+  
+

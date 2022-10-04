@@ -1,0 +1,5 @@
+payload:
+  # steam
+  - DOMAIN-KEYWORD,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
