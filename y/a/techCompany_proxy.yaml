@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,telegra.ph
   - DOMAIN-SUFFIX,telegram.org
 
+  - DOMAIN-KEYWORD,github
+
   - DOMAIN-KEYWORD,twitter
     # reddit
   - DOMAIN-SUFFIX,reddit.com
@@ -25,13 +27,13 @@ payload:
   - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-SUFFIX,9to5mac.com
   - DOMAIN-SUFFIX,abpchina.org
+  - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,adblockplus.org
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,alfredapp.com
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,ampproject.org
-  - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,angularjs.org
   - DOMAIN-SUFFIX,aolcdn.com
   - DOMAIN-SUFFIX,apkpure.com
@@ -115,7 +117,6 @@ payload:
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,ghostnoteapp.com
   - DOMAIN-SUFFIX,git.io
-  - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,globalsign.com
   - DOMAIN-SUFFIX,gmodules.com
   - DOMAIN-SUFFIX,godaddy.com
